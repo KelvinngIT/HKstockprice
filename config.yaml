@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    user1@example.com:
+      email: user1@example.com
+      name: John Doe
+      password: $2b$12$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   # hashed
+cookie:
+  expiry_days: 30
+  key: some_random_signature_key
+  name: hk_stock_cookie
