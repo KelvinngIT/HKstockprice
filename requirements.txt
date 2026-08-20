@@ -1,8 +1,7 @@
 streamlit>=1.32
+resend
 yfinance
 pandas
 openpyxl
 pytz
 pyyaml
-resend          # recommended for sending emails
-# or use: python-dotenv  (if you prefer SMTP)
